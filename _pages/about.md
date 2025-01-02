@@ -12,4 +12,3 @@ I am a final year PhD student in Computer Science department at University of Il
 My research interests keep evolving and currently include numerical linear and multilinear algebra, high performance computing, and numerical optimization.
 I love to explore problems at the intersection of computer science and mathematics.
 
-Here is my [CV](https://navjo2323.github.io/_pages/CV.pdf).
